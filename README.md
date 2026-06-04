@@ -32,6 +32,7 @@ insights around favorites, longshots, jockeys, and track tendencies.
 | `output/` | CSVs fed into Tableau |
 
 ## Dashboard
+[See Dashboard](https://public.tableau.com/app/profile/madison.brown7953/viz/HorseRacingAnalysis/Dashboard1?publish=yes)
 
 ## Data Source
 Equibase past performance XML files  - 5 tracks, 2023 season
