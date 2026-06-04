@@ -11,7 +11,7 @@ insights around favorites, longshots, jockeys, and track tendencies.
 ## Key Findings
 - Saratoga had the highest house margin, making it the toughest track for bettors to profit
 - Favorites are consistently and accurately priced
-- Gulfstream Park showed the most extreme
+- Gulfstream Park showed the most extreme longshot odds, meaning a higher variance in betting opportunities
 - A 2026 Kentucky Derby winning jockey appeared as a top jockey-trainer combination in the dataset
 
 ## Tech Stack
