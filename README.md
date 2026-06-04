@@ -35,5 +35,5 @@ insights around favorites, longshots, jockeys, and track tendencies.
 [See Dashboard](https://public.tableau.com/app/profile/madison.brown7953/viz/HorseRacingAnalysis/Dashboard1?publish=yes)
 
 ## Data Source
-Equibase past performance XML files  - 5 tracks, 2023 season
-(Aqueduct (AQU), Churchill Downs (CD), Del Mar (DMR), Gulfstream Park (GP), Saratoga (SAR))
+Equibase past performance XML files  - 5 tracks, 2023 season  
+Aqueduct (AQU), Churchill Downs (CD), Del Mar (DMR), Gulfstream Park (GP), Saratoga (SAR)
