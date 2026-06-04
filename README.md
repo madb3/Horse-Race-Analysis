@@ -37,3 +37,6 @@ insights around favorites, longshots, jockeys, and track tendencies.
 ## Data Source
 Equibase past performance XML files  - 5 tracks, 2023 season  
 Aqueduct (AQU), Churchill Downs (CD), Del Mar (DMR), Gulfstream Park (GP), Saratoga (SAR)
+
+## Future Improvements
+I would like to explore a live dataset to be able to predict winnings in advance.
