@@ -21,3 +21,18 @@ insights around favorites, longshots, jockeys, and track tendencies.
 - **Data** - Equibase XML files (2023, 5 major tracks)
 
 ## Pipeline
+`parse_pp.py -> feature_engineering.py -> analysis.py -> Tableau`
+
+## Files
+| File | Description |
+|---|---|
+| `parse_pp.py` | Parses raw Equibase XML into CSVs |
+| `feature_engineering.py` | Engineers market features |
+| `analysis.py` | Generates summary tables for Tableau |
+| `output/` | CSVs fed into Tableau |
+
+## Dashboard
+
+## Data Source
+Equibase past performance XML files  - 5 tracks, 2023 season
+(Aqueduct (AQU), Churchill Downs (CD), Del Mar (DMR), Gulfstream Park (GP), Saratoga (SAR))
